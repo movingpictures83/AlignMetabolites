@@ -1,0 +1,2 @@
+Prefix plugins/AlignMetabolites/example/
+Plugin AlignMetabolites inputfile parameters.txt outputfile ranking.tsv

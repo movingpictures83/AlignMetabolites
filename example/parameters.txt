@@ -1,0 +1,3 @@
+dataFilename	HMDBMetabolitesNormalizedRows.csv
+useSplines	True
+referenceSampleID	102
